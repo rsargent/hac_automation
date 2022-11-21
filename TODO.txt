@@ -1,0 +1,11 @@
+
+Phase 2:
+    Save/load session
+    Send diffs to twilio
+    Test manually from notebook
+    Move to .py script
+    Set up in crontab
+
+DONE Phase 1:
+    Fetch and parse attendance
+    Compare with previous attendance and create message
