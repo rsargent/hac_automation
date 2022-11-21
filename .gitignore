@@ -1,2 +1,5 @@
 secrets
 .venv
+data
+*.lock
+*.log
